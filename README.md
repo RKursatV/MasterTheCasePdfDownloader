@@ -17,7 +17,7 @@ git clone git@github.com:RKursatV/MasterTheCasePdfDownloader.git
 And run the command below to get required Python libraries
 
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 That's it.
