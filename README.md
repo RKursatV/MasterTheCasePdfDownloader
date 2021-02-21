@@ -1,8 +1,6 @@
 MasterTheCasePdfDownloader
 ==============================
 
-What Is This?
--------------
 
 A silly script that helps to download pdf files from https://masterthecase.com where all the pdf files are protected by a WordPress plugin called "Pdfembedder Premium Secure", http://wp-pdf.com/
 
