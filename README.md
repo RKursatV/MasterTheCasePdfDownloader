@@ -11,7 +11,7 @@ I wanted to share this script because it can easily be manipulated to download p
 First, get the script codes, by either [downloading the zip](https://github.com/RKursatV/MasterTheCasePdfDownloader/archive/main.zip) and extracting files or using git:
 
 ```
-git@github.com:RKursatV/MasterTheCasePdfDownloader.git
+git clone git@github.com:RKursatV/MasterTheCasePdfDownloader.git
 ```
 
 And run the command below to get required Python libraries
