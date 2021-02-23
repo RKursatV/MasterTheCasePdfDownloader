@@ -2,9 +2,13 @@ MasterTheCasePdfDownloader
 ==============================
 
 
-A silly script that helps to download pdf files from https://masterthecase.com where all the pdf files are protected by a WordPress plugin called "Pdfembedder Premium Secure", http://wp-pdf.com/
+A silly script that helps to download pdf files from https://masterthecase.com where all the pdf files are protected by a WordPress plugin called "Pdf Embedder Premium Secure", http://wp-pdf.com/
 
 I wanted to share this script because it can easily be manipulated to download pdf files from other websites protected by the same plugin. 
+
+### How It Works
+
+Pdf Embedder Premium Secure plugin stores pdf files that are encrypted by using RC4 cipher with a different key. The plugin decrypts pdf files on the fly while showing pdf files to the user. This script gets the key from the page and converts crypted data into pdf file and saves it.
 
 ### Installing
 
