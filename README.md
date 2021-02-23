@@ -8,7 +8,7 @@ I wanted to share this script because it can easily be manipulated to download p
 
 ### How It Works
 
-Pdf Embedder Premium Secure plugin stores pdf files that are encrypted by using RC4 cipher with a different key. The plugin decrypts pdf files on the fly while showing pdf files to the user. This script gets the key from the page and converts crypted data into pdf file and saves it.
+Pdf Embedder Premium Secure plugin stores pdf files that are encrypted by using RC4 cipher with a randomly generated 256 bit key. The plugin decrypts pdf files on the fly while showing pdf files to the user. This script gets the key from the page and converts crypted data into pdf file and saves it.
 
 ### Installing
 
